@@ -2,7 +2,7 @@ Shader "URP AR Shadow Receiver"
 {
     Properties
     {
-        _ShadowColor ("Shadow Color", Color) = (50,50,50,255)
+        _ShadowColor ("Shadow Color", Color) = (50,50,50,1)
     }
  
     SubShader
